@@ -1,0 +1,182 @@
+/*The properties for the body of the blog page*/
+body{
+    width: 100%;
+    background-color:whitesmoke;
+    font-family: "Open Sans",Arial,sans-serif;
+}
+/*The properties of the nav-bar-div*/
+#nav-bar-div{
+    /* background-color: cadetblue; */
+    background-image: url(https://www.matopress.com/wp-content/uploads/2019/05/psx_20190119_014229.jpg);
+    height:100px;
+    padding-top: 8px;
+}
+/*The properties of the unordered list inside the navbar*/
+.navbar-ul {
+    /* display: inline; */
+    justify-content: center;
+    align-items: center;
+}
+/*The properties of the the list items in the ul*/
+.navbar-ul li{
+ list-style: none;
+ display: inline;
+ margin-left: 60px;
+ margin-right: 20px;
+
+}
+/*The properties of the links in the navbar ul*/
+.navbar-ul a{
+    text-decoration: none;
+    color: white;
+}
+/*The properties of the hovering on the links inside the list*/
+.navbar-ul a:hover{
+  color: goldenrod;
+}
+#mktndaily{
+ background-color: whitesmoke;
+ text-align: center;
+ font-family: 'Georgia',Georgia,"Times New Roman",serif;
+ font-weight: 300;
+ font-style: italic;
+ font-size: 35px;
+ color: #b6922e 
+  
+}
+#row-grid{
+    margin-top: 20px;
+}
+
+#card1{
+margin-right: 20px;
+margin-top: 20px;
+margin-left: 20px;
+/* margin-bottom: 20px; */
+}
+#card2{
+    margin-right: 20px; 
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.pictue-link{
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+#piniterst-img{
+ border-radius: 50px;
+}
+#listen2podcast{
+ margin-bottom: 20px;
+ font-size:14px;
+ background-color: whitesmoke;
+ font-style: italic;
+}
+#podcast-card{
+ margin-bottom: 50px;
+ background-color: whitesmoke;
+}
+#popular-posts{
+  margin-left: 50px;
+  margin-bottom: 20px;
+  font-size:14px;
+  font-style: italic;
+
+}
+.card-text{
+    font-size: 13px;
+}
+.card-title{
+    font-size:13px;
+    font-weight:800;
+    
+}
+#card3{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border:none;
+}
+#card4{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border:none;
+}
+#card5{
+    margin-top:50px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#row-grid{
+    margin-top: 30px;
+    /* border: solid 2px black */
+
+}
+#row2{
+margin-top:10px ;
+width:80%;
+border: solid 2px black
+}
+.card{
+    background-color: white;
+    border: solid 1px whitesmoke;
+}
+
+#card6{
+    margin-top:50px;
+    margin-right: 20px; 
+    margin-left: 20px;
+    
+    
+
+}
+#older-entries{
+    text-decoration: none;
+    font-size: 14px;
+
+}
+.last-row-block{
+    width:50%;
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right:30px;
+    padding-bottom:30px;
+    box-sizing: border-box;
+    /* border: solid 2px magenta; */
+}
+#last-social-icons{
+ height: 80px;
+ padding-top: 20px;
+ padding-left: 0px;
+ padding-bottom: 20px;
+ box-sizing: border-box;
+ /* border: solid 2px yellowgreen; */
+}
+
+.first-nav-links{
+ font-weight:600;
+ font-size:13px;
+ margin-right:10px;
+ margin-left:0px;
+ text-decoration: none;
+ color:grey;
+}
+.first-nav-links:hover{
+    color:dodgerblue;
+}
+.inner-nav-div{
+    /* border: solid 2px deepskyblue; */
+
+}
+#inner-nav-div-id{
+    margin-left: 60px;
+}
+#inner-nav-div-id2{
+    margin-left: 60px;
+}
+.transparent-link{
+ border-radius: 50px;
+
+}
